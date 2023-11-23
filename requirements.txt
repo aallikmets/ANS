@@ -4,6 +4,5 @@ matplotlib
 ipywidgets
 jupyter_ui_poll
 IPython
-time
 PIL
 glob
